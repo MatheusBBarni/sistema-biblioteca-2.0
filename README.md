@@ -1,5 +1,3 @@
-#sistema-biblioteca-2.0
-
 English =>
 	This is a project to practice my skills in FullStack-development.
 	
