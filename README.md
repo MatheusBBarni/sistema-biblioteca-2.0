@@ -15,3 +15,5 @@ Português =>
 	Front-end => reactjs.
 	Back-end => Golang, php ou Nodejs.
 	Banco de dados => MongoDB.
+
+	
