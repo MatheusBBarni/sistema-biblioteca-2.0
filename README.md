@@ -1,7 +1,7 @@
 English =>
 	This is a project to practice my skills in FullStack-development.
 	
-	It will a system for libraries, it's 2.0 because i already did a similar project on my technician course.
+	It will be a system for libraries, it's 2.0 because i already did a similar project on my technician course.
 
 	Front-end => reactjs.
 	Back-end => Golang, php, or Nodejs.
