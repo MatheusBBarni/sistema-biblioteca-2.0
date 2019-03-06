@@ -5,7 +5,7 @@ English =>
 
 	Front-end => reactjs.
 	Back-end => Golang, php, or Nodejs.
-
+	Database => MongoDB.
 
 Português =>
 	Este é um projeto para praticar minhas habilidades no desenvolvimento FullStack.
@@ -14,3 +14,4 @@ Português =>
 
 	Front-end => reactjs.
 	Back-end => Golang, php ou Nodejs.
+	Banco de dados => MongoDB.
